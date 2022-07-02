@@ -1,0 +1,59 @@
+/* home  */
+.nameposition {
+  transform: translate(50%, -200%);
+}
+
+.nicknameposition {
+  transform: translate(53%, -395%);
+}
+
+.pictureposition {
+  transform: translate(6%, 10%);
+}
+
+.aboutmeposition {
+  transform: translate(0%, -60%);
+}
+
+.navposition {
+  transform: translate(0%, -11%);
+}
+
+.myskillposition {
+  transform: translate(58%, -1990%);
+}
+
+.cppinfoposition {
+  transform: translate(42%, -890%);
+}
+.cppimposition {
+  transform: translate(57%, -900%);
+}
+
+.catinfoposition {
+  transform: translate(42%, -705%);
+}
+.catimposition {
+  transform: translate(55%, -682%);
+}
+
+.educationposition {
+  transform: translate(57%, -1950%);
+}
+.eduinfoposition {
+  transform: translate(40%, -870%);
+}
+
+.homeposition {
+  transform: translate(0%, 8%);
+}
+
+/* contact  */
+.contactinfoposition {
+  transform: translate(4%, -240%);
+}
+
+/* exp  */
+.expinfoposition {
+  transform: translate(32%, -120%);
+}

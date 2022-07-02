@@ -1,0 +1,86 @@
+/* about me flex  */
+.flex-box {
+  display: flex;
+  box-sizing: border-box;
+  align-items: stretch;
+  flex-flow: row nowrap;
+}
+
+.box1 {
+  display: block;
+  box-sizing: border-box;
+  width: 60%;
+  text-align: center;
+}
+
+.box2 {
+  display: block;
+  box-sizing: border-box;
+}
+
+.content {
+  width: auto;
+  height: 130px;
+  background: grey;
+  position: relative;
+  padding: 30px;
+
+  /* border: 2px solid black; */
+}
+
+/* contact flex  */
+.flexcon {
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+  flex-flow: row nowrap;
+}
+.maincon {
+  display: block;
+  box-sizing: border-box;
+  width: 40%;
+}
+.seccon {
+  display: block;
+  box-sizing: border-box;
+  width: 60%;
+}
+
+.concon {
+  text-align: left;
+  width: 250px;
+  height: 50px;
+  background: grey;
+  position: relative;
+  padding: 10px;
+
+  border: 2px solid black;
+}
+
+/* EXP FLEX  */
+.flexexp {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-flow: row nowrap;
+}
+.mainexp {
+  display: block;
+  width: 31.5%;
+}
+.secexp {
+  display: block;
+  box-sizing: border-box;
+  width: 35%;
+}
+
+.expcon {
+  text-align: left;
+  width: auto;
+  height: auto;
+  background: blueviolet;
+  position: relative;
+  padding: 10px;
+
+  border: 2px solid black;
+}
